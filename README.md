@@ -4,6 +4,8 @@
 
 Für dieses Projekt habe ich ein Modellhaus aus Holz aufgebaut und mit Sensoren, LEDs und einer motorisierten Jalousie ausgestattet. Ein Raspberry Pi verarbeitet die Eingangssignale und steuert die angeschlossenen Komponenten. Das Projekt verbindet Programmierung, Elektronik und den praktischen Aufbau eines kleinen Automatisierungssystems.
 
+**[Originaldokumentation als Word-Datei herunterladen](docs/Projektarbeit_Hausautomatisierung_EnesT.docx)** – meine ursprüngliche Projektarbeit, unverändert.
+
 <img src="assets/images/holzhaus-aussenansicht.jpg" alt="Außenansicht des Holzhauses mit gelber LED als Außenleuchte und PIR-Bewegungssensor an der Fassade" width="520">
 
 *Das Holzhaus von außen: Eine gelbe LED stellt die Außenleuchte dar. Der Bewegungssensor an der Fassade erkennt Bewegung und löst das Einschalten des Lichts aus.*
