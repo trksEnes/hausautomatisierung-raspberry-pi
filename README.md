@@ -17,12 +17,21 @@ Für dieses Projekt habe ich ein Modellhaus aus Holz aufgebaut und mit Sensoren,
 
 ## Das Projekt in Aktion
 
-- **[Vorführung des Prototyps](assets/videos/prototyp-vorfuehrung.mp4)** – Sensoren, Beleuchtung, Motor und Bedienelemente am Versuchsaufbau.
-- **[Jalousie im Holzhaus](assets/videos/jalousie-im-holzhaus.mp4)** – die eingebaute Mechanik im Modell.
+### Vorführung des Prototyps
 
-Die Videos lassen sich über die Links öffnen oder herunterladen.
+Sensoren, Beleuchtung, Motor und Bedienelemente am Versuchsaufbau.
 
-<a href="assets/videos/jalousie-im-holzhaus.mp4"><img src="assets/images/holzhaus-innenansicht.jpg" alt="Innenansicht des Holzhauses mit LEDs, Jalousie und Verkabelung" width="320"></a>
+https://github.com/user-attachments/assets/734a682b-2565-4be7-85cc-240b7da59799
+
+### Jalousie im Holzhaus
+
+Die eingebaute Mechanik im Modell.
+
+https://github.com/user-attachments/assets/7c540e90-aecc-45b6-93da-39b275ee1e70
+
+**Downloads:** [Vorführung des Prototyps](assets/videos/prototyp-vorfuehrung.mp4) · [Jalousie im Holzhaus](assets/videos/jalousie-im-holzhaus.mp4)
+
+<img src="assets/images/holzhaus-innenansicht.jpg" alt="Innenansicht des Holzhauses mit LEDs, Jalousie und Verkabelung" width="320">
 
 ## Technik
 
