@@ -23,13 +23,13 @@ Vor dem Einbau ins Haus habe ich die Beleuchtung auf Steckbrettern aufgebaut und
 
 ### Innenbeleuchtung – Testaufbau
 
-![Testaufbau der Innenbeleuchtung mit vier blauen LEDs und Anschlussleitungen auf einem Steckbrett](assets/images/testaufbau-innenbeleuchtung.jpg)
+![Testaufbau der Innenbeleuchtung mit vier blauen LEDs und Anschlussleitungen auf einem Steckbrett](assets/images/testaufbau-innenbeleuchtung.png)
 
 *Vier blaue LEDs mit Anschlussleitungen auf dem Steckbrett. An diesem Aufbau habe ich die spätere Innenbeleuchtung vor dem Einbau getestet; im Projekt schaltet ein Touchsensor das Licht.*
 
 ### Außenbeleuchtung – Testaufbau
 
-![Testaufbau der Außenleuchte mit gelber LED, Widerstand und Anschlussleitungen auf einem Steckbrett](assets/images/testaufbau-aussenbeleuchtung.jpg)
+![Testaufbau der Außenleuchte mit gelber LED, Widerstand und Anschlussleitungen auf einem Steckbrett](assets/images/testaufbau-aussenbeleuchtung.png)
 
 *Gelbe LED mit Widerstand und Anschlussleitungen als Testaufbau der Außenleuchte. Die Schaltung wurde zunächst außerhalb des Hauses erprobt und anschließend in das Modell eingebaut. Der Bewegungssensor ist auf der Außenansicht oben zu sehen.*
 
