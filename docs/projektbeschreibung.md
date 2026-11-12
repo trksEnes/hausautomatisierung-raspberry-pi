@@ -33,13 +33,13 @@ Die gelbe LED stellt die Außenleuchte dar. Der an der Fassade eingebaute PIR-Be
 
 ### Testaufbau der Innenbeleuchtung
 
-![Vier blaue LEDs und Anschlussleitungen auf einem Steckbrett](../assets/images/testaufbau-innenbeleuchtung.jpg)
+![Vier blaue LEDs und Anschlussleitungen auf einem Steckbrett](../assets/images/testaufbau-innenbeleuchtung.png)
 
 Die LEDs und ihre Anschlüsse wurden zunächst außerhalb des Hauses auf einem Steckbrett aufgebaut und getestet. Das Foto zeigt diesen Zwischenschritt vor dem Einbau. Im Gesamtprojekt wird die Innenbeleuchtung über den Touchsensor geschaltet.
 
 ### Testaufbau der Außenbeleuchtung
 
-![Gelbe LED mit Widerstand und Anschlussleitungen auf einem Steckbrett](../assets/images/testaufbau-aussenbeleuchtung.jpg)
+![Gelbe LED mit Widerstand und Anschlussleitungen auf einem Steckbrett](../assets/images/testaufbau-aussenbeleuchtung.png)
 
 Auch die Außenleuchte wurde vor dem Einbau separat erprobt. Zu sehen sind die gelbe LED, ein Widerstand und die Anschlussleitungen. Der Bewegungssensor ist auf diesem Foto nicht abgebildet; seine Montage zeigt die Außenansicht des Holzhauses.
 
