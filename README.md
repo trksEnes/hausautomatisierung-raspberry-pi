@@ -4,8 +4,6 @@
 
 Für dieses Projekt habe ich ein Modellhaus aus Holz aufgebaut und mit Sensoren, LEDs und einer motorisierten Jalousie ausgestattet. Ein Raspberry Pi verarbeitet die Eingangssignale und steuert die angeschlossenen Komponenten. Das Projekt verbindet Programmierung, Elektronik und den praktischen Aufbau eines kleinen Automatisierungssystems.
 
-**[Originaldokumentation als Word-Datei herunterladen](docs/Projektarbeit_Hausautomatisierung_EnesT.docx)** – meine ursprüngliche Projektarbeit, unverändert.
-
 <img src="assets/images/holzhaus-aussenansicht.jpg" alt="Außenansicht des Holzhauses mit gelber LED als Außenleuchte und PIR-Bewegungssensor an der Fassade" width="520">
 
 *Das Holzhaus von außen: Eine gelbe LED stellt die Außenleuchte dar. Der Bewegungssensor an der Fassade erkennt Bewegung und löst das Einschalten des Lichts aus.*
@@ -65,7 +63,7 @@ Die [technischen Erläuterungen](docs/technik.md) beschreiben die Pinbelegung, d
 
 Die Datei [motor_und_touchpad.py](src/motor_und_touchpad.py) enthält meinen erhaltenen Originalcode für **Innenbeleuchtung und Jalousie**. Sie wurde für dieses Repository nur umbenannt; ihr Inhalt ist unverändert.
 
-Die Außenbeleuchtung gehört zum gebauten Projekt und ist in der ursprünglichen Projektarbeit beschrieben. Ihre separate Python-Datei liegt hier noch nicht vor. Der vorhandene Code ist ein damaliger Hardwareprototyp; mögliche Verbesserungen sind in den technischen Erläuterungen festgehalten.
+Die Außenbeleuchtung gehört zum gebauten Projekt und ist in der ausführlichen Dokumentation beschrieben. Ihre separate Python-Datei liegt hier noch nicht vor. Der vorhandene Code ist ein damaliger Hardwareprototyp; mögliche Verbesserungen sind in den technischen Erläuterungen festgehalten.
 
 ### Ausführung
 
@@ -87,11 +85,16 @@ Das Programm greift direkt auf GPIO-Pins zu. Es ist keine Simulation für einen 
 │   └── motor_und_touchpad.py
 ├── docs/
 │   ├── projektbeschreibung.md
-│   └── technik.md
+│   ├── technik.md
+│   └── Hausautomatisierung_Dokumentation_Enes_Tuerksever.pdf
 └── assets/
     ├── images/
     └── videos/
 ```
+
+## Dokumentation
+
+- [Meine ausführliche Dokumentation (PDF)](docs/Hausautomatisierung_Dokumentation_Enes_Tuerksever.pdf)
 
 ## Autor
 
