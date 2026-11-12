@@ -4,7 +4,9 @@
 
 Für dieses Projekt habe ich ein Modellhaus aus Holz aufgebaut und mit Sensoren, LEDs und einer motorisierten Jalousie ausgestattet. Ein Raspberry Pi verarbeitet die Eingangssignale und steuert die angeschlossenen Komponenten. Das Projekt verbindet Programmierung, Elektronik und den praktischen Aufbau eines kleinen Automatisierungssystems.
 
-![Versuchsaufbau mit Sensoren, Tastern, LEDs und Schrittmotor](assets/images/versuchsaufbau.jpg)
+<img src="assets/images/holzhaus-aussenansicht.jpg" alt="Außenansicht des Holzhauses mit gelber LED als Außenleuchte und PIR-Bewegungssensor an der Fassade" width="520">
+
+*Das Holzhaus von außen: Eine gelbe LED stellt die Außenleuchte dar. Der Bewegungssensor an der Fassade erkennt Bewegung und löst das Einschalten des Lichts aus.*
 
 ## Funktionen
 
@@ -14,6 +16,22 @@ Für dieses Projekt habe ich ein Modellhaus aus Holz aufgebaut und mit Sensoren,
 | Innenbeleuchtung | Ein Touchsensor dient als Lichtschalter für die LEDs im Haus. |
 | Automatische Jalousie | Ein Lichtsensor löst die Bewegung eines Schrittmotors aus. Bei Lichteinfall fährt die Jalousie herunter. |
 | Manuelle Jalousie | Ein Taster wechselt zwischen Automatik und manueller Bedienung. Zwei weitere Taster steuern die beiden Fahrtrichtungen. |
+
+## Vom Testaufbau zum Holzhaus
+
+Vor dem Einbau ins Haus habe ich die Beleuchtung auf Steckbrettern aufgebaut und getestet. Die folgenden Fotos zeigen diese Zwischenschritte und die elektrische Umsetzung außerhalb des Modells.
+
+### Innenbeleuchtung – Testaufbau
+
+![Testaufbau der Innenbeleuchtung mit vier blauen LEDs und Anschlussleitungen auf einem Steckbrett](assets/images/testaufbau-innenbeleuchtung.jpg)
+
+*Vier blaue LEDs mit Anschlussleitungen auf dem Steckbrett. An diesem Aufbau habe ich die spätere Innenbeleuchtung vor dem Einbau getestet; im Projekt schaltet ein Touchsensor das Licht.*
+
+### Außenbeleuchtung – Testaufbau
+
+![Testaufbau der Außenleuchte mit gelber LED, Widerstand und Anschlussleitungen auf einem Steckbrett](assets/images/testaufbau-aussenbeleuchtung.jpg)
+
+*Gelbe LED mit Widerstand und Anschlussleitungen als Testaufbau der Außenleuchte. Die Schaltung wurde zunächst außerhalb des Hauses erprobt und anschließend in das Modell eingebaut. Der Bewegungssensor ist auf der Außenansicht oben zu sehen.*
 
 ## Das Projekt in Aktion
 
