@@ -8,7 +8,7 @@ An einem Modellhaus aus Holz habe ich drei typische Funktionen einer Hausautomat
 
 Der Raspberry Pi verbindet die Software mit den Sensoren und Aktoren. Die Komponenten wurden über Breadboards und Jumperkabel angeschlossen. LEDs stellen die Innen- und Außenbeleuchtung dar. Ein Schrittmotor bewegt die Jalousie im Holzmodell.
 
-Die ursprüngliche Projektarbeit nennt folgende Komponenten:
+Die ausführliche Dokumentation nennt folgende Komponenten:
 
 | Bauteil | Aufgabe |
 | --- | --- |
@@ -67,6 +67,6 @@ Die Verbindung von Sensoren, Software und Mechanik war ein zentraler Teil des Pr
 
 Das Repository enthält den unveränderten Python-Code für Touch-Beleuchtung und Jalousie, zwei aufbereitete Demonstrationsvideos, daraus entnommene Standbilder sowie Fotos der Außenansicht und der Testaufbauten für die Beleuchtung. Die Erläuterungen wurden anhand des Codes, der ursprünglichen Word-Dokumentation, der Fotos und der bereitgestellten Projektangaben erstellt.
 
-Die [ursprüngliche Projektarbeit als Word-Datei](Projektarbeit_Hausautomatisierung_EnesT.docx) ist ebenfalls unverändert im Repository enthalten.
+Die [ausführliche Dokumentation (PDF)](Hausautomatisierung_Dokumentation_Enes_Tuerksever.pdf) beschreibt die Bauteile, den Aufbau und die Programmierung im Detail.
 
 Die [technischen Erläuterungen](technik.md) unterscheiden das beabsichtigte Verhalten des Modells vom tatsächlich erhaltenen Softwarestand. Eine ergänzende Präsentation kann später hinzugefügt werden.

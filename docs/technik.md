@@ -1,6 +1,6 @@
 # Technische Erläuterungen
 
-Diese Beschreibung bezieht sich auf die unveränderte Datei [motor_und_touchpad.py](../src/motor_und_touchpad.py). Bei Abweichungen zur ursprünglichen Projektarbeit ist für die Beschreibung des erhaltenen Programms der Code maßgeblich.
+Diese Beschreibung bezieht sich auf die unveränderte Datei [motor_und_touchpad.py](../src/motor_und_touchpad.py). Bei Abweichungen zur ausführlichen Dokumentation ist für die Beschreibung des erhaltenen Programms der Code maßgeblich.
 
 ## Pinbelegung
 
@@ -16,7 +16,7 @@ Das Programm verwendet `GPIO.setmode(GPIO.BCM)`. Die Zahlen sind BCM-GPIO-Nummer
 | 22 | `right_pin` | Manuelle Drehrichtung mit vorwärts durchlaufener Schrittfolge |
 | 17 | `left_pin` | Manuelle Drehrichtung mit rückwärts durchlaufener Schrittfolge |
 
-Die Außenbeleuchtung wird in der ursprünglichen Projektarbeit separat mit GPIO 2 für den Bewegungssensor und GPIO 3 für die LED beschrieben. Diese Pins werden in der hier vorhandenen Python-Datei nicht eingerichtet. Die Tabelle ersetzt keinen geprüften Schaltplan.
+Die Außenbeleuchtung wird in der ausführlichen Dokumentation separat mit GPIO 2 für den Bewegungssensor und GPIO 3 für die LED beschrieben. Diese Pins werden in der hier vorhandenen Python-Datei nicht eingerichtet. Die Tabelle ersetzt keinen geprüften Schaltplan.
 
 ## Innenbeleuchtung
 
