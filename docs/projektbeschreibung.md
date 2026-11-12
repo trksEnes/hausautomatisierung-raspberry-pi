@@ -65,6 +65,8 @@ Die Verbindung von Sensoren, Software und Mechanik war ein zentraler Teil des Pr
 
 ## Erhaltener Stand
 
-Das Repository enthält den unveränderten Python-Code für Touch-Beleuchtung und Jalousie, zwei aufbereitete Demonstrationsvideos, daraus entnommene Standbilder sowie Fotos der Außenansicht und der Testaufbauten für die Beleuchtung. Die Erläuterungen wurden anhand des Codes, der ursprünglichen Word-Dokumentation, der Fotos und der bereitgestellten Projektangaben erstellt. Die ursprünglichen Dateien bleiben außerhalb dieses Repositorys erhalten.
+Das Repository enthält den unveränderten Python-Code für Touch-Beleuchtung und Jalousie, zwei aufbereitete Demonstrationsvideos, daraus entnommene Standbilder sowie Fotos der Außenansicht und der Testaufbauten für die Beleuchtung. Die Erläuterungen wurden anhand des Codes, der ursprünglichen Word-Dokumentation, der Fotos und der bereitgestellten Projektangaben erstellt.
+
+Die [ursprüngliche Projektarbeit als Word-Datei](Projektarbeit_Hausautomatisierung_EnesT.docx) ist ebenfalls unverändert im Repository enthalten.
 
 Die [technischen Erläuterungen](technik.md) unterscheiden das beabsichtigte Verhalten des Modells vom tatsächlich erhaltenen Softwarestand. Eine ergänzende Präsentation kann später hinzugefügt werden.
