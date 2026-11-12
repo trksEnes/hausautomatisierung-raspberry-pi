@@ -23,6 +23,26 @@ Die ursprüngliche Projektarbeit nennt folgende Komponenten:
 
 Die Modellbezeichnungen stammen aus der damaligen Dokumentation. Die genaue Ausführung und Verdrahtung der verwendeten Module müssen vor einem Nachbau am realen Aufbau überprüft werden.
 
+## Fotos aus der Umsetzung
+
+### Außenansicht des Holzhauses
+
+<img src="../assets/images/holzhaus-aussenansicht.jpg" alt="Holzhaus mit Bewegungssensor und gelber Außenleuchte an der Fassade" width="520">
+
+Die gelbe LED stellt die Außenleuchte dar. Der an der Fassade eingebaute PIR-Bewegungssensor erfasst Bewegung und löst das Einschalten der Beleuchtung aus.
+
+### Testaufbau der Innenbeleuchtung
+
+![Vier blaue LEDs und Anschlussleitungen auf einem Steckbrett](../assets/images/testaufbau-innenbeleuchtung.jpg)
+
+Die LEDs und ihre Anschlüsse wurden zunächst außerhalb des Hauses auf einem Steckbrett aufgebaut und getestet. Das Foto zeigt diesen Zwischenschritt vor dem Einbau. Im Gesamtprojekt wird die Innenbeleuchtung über den Touchsensor geschaltet.
+
+### Testaufbau der Außenbeleuchtung
+
+![Gelbe LED mit Widerstand und Anschlussleitungen auf einem Steckbrett](../assets/images/testaufbau-aussenbeleuchtung.jpg)
+
+Auch die Außenleuchte wurde vor dem Einbau separat erprobt. Zu sehen sind die gelbe LED, ein Widerstand und die Anschlussleitungen. Der Bewegungssensor ist auf diesem Foto nicht abgebildet; seine Montage zeigt die Außenansicht des Holzhauses.
+
 ## Umsetzung
 
 ### Außenbeleuchtung
@@ -45,6 +65,6 @@ Die Verbindung von Sensoren, Software und Mechanik war ein zentraler Teil des Pr
 
 ## Erhaltener Stand
 
-Das Repository enthält den unveränderten Python-Code für Touch-Beleuchtung und Jalousie, zwei aufbereitete Demonstrationsvideos und daraus entnommene Standbilder. Die Erläuterungen wurden anhand des Codes, der ursprünglichen Word-Dokumentation und der bereitgestellten Projektangaben erstellt. Die ursprünglichen Dateien bleiben außerhalb dieses Repositorys erhalten.
+Das Repository enthält den unveränderten Python-Code für Touch-Beleuchtung und Jalousie, zwei aufbereitete Demonstrationsvideos, daraus entnommene Standbilder sowie Fotos der Außenansicht und der Testaufbauten für die Beleuchtung. Die Erläuterungen wurden anhand des Codes, der ursprünglichen Word-Dokumentation, der Fotos und der bereitgestellten Projektangaben erstellt. Die ursprünglichen Dateien bleiben außerhalb dieses Repositorys erhalten.
 
 Die [technischen Erläuterungen](technik.md) unterscheiden das beabsichtigte Verhalten des Modells vom tatsächlich erhaltenen Softwarestand. Eine ergänzende Präsentation kann später hinzugefügt werden.
